@@ -1,0 +1,6 @@
+framework module Pods_url_jpg {
+  umbrella header "Pods-url_jpg-umbrella.h"
+
+  export *
+  module * { export * }
+}
